@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.62.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/f6ba1d2f18dd5bf1fb044c266d84f1f4/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/6ec2cf35d937b94920bb7aebb1bf630c/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/5a81cf05d1b54c0fc0c3ff4889d4714c/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0b09482e1539de8ee9d5b59369c5b778/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/9e45ddac0b3dca35cfcbb9e65b3b5805/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/84052df3e944c5a3825f9de5a4f7fcda/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/ascend/.gradle/caches/transforms-2/files-2.1/37a62cf2f8c674e5de7bdcf1a619d43d/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0d36e154efb2eda6cabfc37a39e339ed/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f944e7c43b8d50951d7cc51c66fb3d39/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d2f8f3c9befc13d09b579185273f78c2/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/fe04b43a4d58ce6a9325534d1634c8c8/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1aa839431c4ec49d4156ec14e1e39b18/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f94b12b4cf39d404bcb4fc746623b8e0/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7a60c21d76a43af3db590097e01b8ce9/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7d604bc076836af8740673a2e2a1a29b/soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6f2258cc20da7eb94a4fe32e85a66489/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f5c143b90915387ca6c0c69e1e46a8a1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ascend/.gradle/caches/transforms-2/files-2.1/a9716212d5b54d7ab7effd182f5bab24/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/196b9ad38b7ef7bc70a4ff8de2f7c076/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c6b25d085bb342cde4c8dce4902d0031/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6240987f88b03db500b88c2c0b45096b/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2615b1e9d9a955234f9e788d0e5d37f9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/b39da0e51db63f7280dcc15ced30df87/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/83d50a9502504cb25ed25d94b4b2523e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/a7b8e23e38bbf10fe9b02dd2ab71c3cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2ac3947c6a55953d79553e59a17da9d0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/96d69ed193ecee6aa056645ca889c20c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/ec2f2d75cce3ea552e01b5513d7b6741/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/aea4acd85524c47ea103afe06bb1cd46/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d355ae23c5cc9a767577966d63420e7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6210f28c5c5627456ea68c8925977ed7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/88e8d567a8a13a966412a772c7685a08/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/921c0847b411953d4f09a986a75ecaa8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c45fffaee9dc56840725a3b148f0783e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/e5b68919b5b44b7a86b827a33963045b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1b58a701537d321525597c80131bb8e5/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/8348f535ce26ed13a6ef01b865fb6497/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.62.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/f6ba1d2f18dd5bf1fb044c266d84f1f4/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/f6ba1d2f18dd5bf1fb044c266d84f1f4/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7d604bc076836af8740673a2e2a1a29b/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7d604bc076836af8740673a2e2a1a29b/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2ac3947c6a55953d79553e59a17da9d0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2ac3947c6a55953d79553e59a17da9d0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/8348f535ce26ed13a6ef01b865fb6497/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/8348f535ce26ed13a6ef01b865fb6497/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#one.metta.care.MainActivity
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/f6ba1d2f18dd5bf1fb044c266d84f1f4/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/f6ba1d2f18dd5bf1fb044c266d84f1f4/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/6ec2cf35d937b94920bb7aebb1bf630c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ascend/.gradle/caches/transforms-2/files-2.1/6ec2cf35d937b94920bb7aebb1bf630c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/5a81cf05d1b54c0fc0c3ff4889d4714c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/5a81cf05d1b54c0fc0c3ff4889d4714c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0b09482e1539de8ee9d5b59369c5b778/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0b09482e1539de8ee9d5b59369c5b778/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/9e45ddac0b3dca35cfcbb9e65b3b5805/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/9e45ddac0b3dca35cfcbb9e65b3b5805/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/84052df3e944c5a3825f9de5a4f7fcda/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/84052df3e944c5a3825f9de5a4f7fcda/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/ascend/.gradle/caches/transforms-2/files-2.1/37a62cf2f8c674e5de7bdcf1a619d43d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ascend/.gradle/caches/transforms-2/files-2.1/37a62cf2f8c674e5de7bdcf1a619d43d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0d36e154efb2eda6cabfc37a39e339ed/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/0d36e154efb2eda6cabfc37a39e339ed/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f944e7c43b8d50951d7cc51c66fb3d39/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f944e7c43b8d50951d7cc51c66fb3d39/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d2f8f3c9befc13d09b579185273f78c2/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d2f8f3c9befc13d09b579185273f78c2/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/fe04b43a4d58ce6a9325534d1634c8c8/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/fe04b43a4d58ce6a9325534d1634c8c8/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1aa839431c4ec49d4156ec14e1e39b18/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1aa839431c4ec49d4156ec14e1e39b18/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f94b12b4cf39d404bcb4fc746623b8e0/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f94b12b4cf39d404bcb4fc746623b8e0/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7a60c21d76a43af3db590097e01b8ce9/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7a60c21d76a43af3db590097e01b8ce9/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7d604bc076836af8740673a2e2a1a29b/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/7d604bc076836af8740673a2e2a1a29b/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6f2258cc20da7eb94a4fe32e85a66489/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6f2258cc20da7eb94a4fe32e85a66489/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f5c143b90915387ca6c0c69e1e46a8a1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/f5c143b90915387ca6c0c69e1e46a8a1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ascend/.gradle/caches/transforms-2/files-2.1/a9716212d5b54d7ab7effd182f5bab24/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ascend/.gradle/caches/transforms-2/files-2.1/a9716212d5b54d7ab7effd182f5bab24/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/196b9ad38b7ef7bc70a4ff8de2f7c076/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/196b9ad38b7ef7bc70a4ff8de2f7c076/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c6b25d085bb342cde4c8dce4902d0031/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c6b25d085bb342cde4c8dce4902d0031/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6240987f88b03db500b88c2c0b45096b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6240987f88b03db500b88c2c0b45096b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2615b1e9d9a955234f9e788d0e5d37f9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2615b1e9d9a955234f9e788d0e5d37f9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/b39da0e51db63f7280dcc15ced30df87/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/b39da0e51db63f7280dcc15ced30df87/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/83d50a9502504cb25ed25d94b4b2523e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/83d50a9502504cb25ed25d94b4b2523e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/a7b8e23e38bbf10fe9b02dd2ab71c3cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/a7b8e23e38bbf10fe9b02dd2ab71c3cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/ascend/.gradle/caches/transforms-2/files-2.1/73d01751043a2c63758e5c0c0efed485/core-1.5.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2ac3947c6a55953d79553e59a17da9d0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/2ac3947c6a55953d79553e59a17da9d0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/96d69ed193ecee6aa056645ca889c20c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/96d69ed193ecee6aa056645ca889c20c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/ec2f2d75cce3ea552e01b5513d7b6741/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/ec2f2d75cce3ea552e01b5513d7b6741/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/aea4acd85524c47ea103afe06bb1cd46/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/aea4acd85524c47ea103afe06bb1cd46/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d355ae23c5cc9a767577966d63420e7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/d355ae23c5cc9a767577966d63420e7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6210f28c5c5627456ea68c8925977ed7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/6210f28c5c5627456ea68c8925977ed7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/88e8d567a8a13a966412a772c7685a08/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/88e8d567a8a13a966412a772c7685a08/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/921c0847b411953d4f09a986a75ecaa8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/921c0847b411953d4f09a986a75ecaa8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c45fffaee9dc56840725a3b148f0783e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/c45fffaee9dc56840725a3b148f0783e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/e5b68919b5b44b7a86b827a33963045b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/e5b68919b5b44b7a86b827a33963045b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1b58a701537d321525597c80131bb8e5/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/1b58a701537d321525597c80131bb8e5/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/8348f535ce26ed13a6ef01b865fb6497/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/ascend/.gradle/caches/transforms-2/files-2.1/8348f535ce26ed13a6ef01b865fb6497/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ascend/ascendProjects/metta/mettaMobileReact/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /home/ascend/ascendProjects/metta/mettaMobileReact/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
